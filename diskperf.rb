@@ -4,7 +4,9 @@
 # 
 # References: (Get the 5.5 API docs if you want to look for changes. But these counters are a start.
 # https://www.vmware.com/support/developer/vc-sdk/visdk400pubs/ReferenceGuide/disk_counters.html
-#
+# 
+# 5.5 API reference
+# https://pubs.vmware.com/vsphere-55/index.jsp#com.vmware.wssdk.apiref.doc/right-pane.html
 
 require 'trollop'
 require 'rbvmomi'
